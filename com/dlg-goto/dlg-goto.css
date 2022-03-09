@@ -1,0 +1,60 @@
+
+.notepad-goto-dlg {
+  border:1px solid #6f6f6f;
+  height:158px;
+  width:291px;
+  background-color:#f1f1f1;
+  position:absolute;
+}
+.c1{
+  width:291px;
+  height:30px;
+  background-color:#fefefe;
+  font-size:10px;
+}
+.c1 label{
+  font-size:12px;
+  -webkit-transform:scale(0.83);
+  position:absolute;
+  top:5px;
+}
+.l0{
+  float:left;
+  margin:10px,0;
+}
+.c2{
+  margin-top:14px;
+  margin-left:12px;
+}
+.inp{
+  width:265px;
+  height:24px;
+}
+
+.l1{
+  font-size:12px;
+  -webkit-transform:scale(0.83); 
+  display:inline-block;
+  margin-bottom:5px;
+}
+.button1{
+  width:86px;
+  height:28px;
+  float:right;
+  margin-right:10px;
+  margin-top:16px;
+  margin-bottom:16px;
+}
+.button2{
+  width:86px;
+  height:28px;
+  float:right;
+  margin-right:14px;
+  margin-top:16px;
+  margin-bottom:16px;
+}
+.close-btn{
+  margin-left:268px;
+  position:absolute;
+  top:5px;
+}

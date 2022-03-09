@@ -1,0 +1,32 @@
+{
+  "name": "jsnotepad",
+  "version": "1.0.0",
+  "description": "对话框",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-eslint": "^21.0.0",
+    "grunt-htmlhint": "^0.9.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JIZHAOPING/jsnotepad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JIZHAOPING/jsnotepad/issues"
+  },
+  "homepage": "https://github.com/JIZHAOPING/jsnotepad#readme"
+}
